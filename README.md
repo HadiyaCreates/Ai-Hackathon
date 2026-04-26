@@ -4,12 +4,6 @@ CampusPulse is a full-stack web application designed to manage campus ambassador
 
 ---
 
-## 🎥 Demo Video
-
-👉 https://drive.google.com/file/d/1VEePLMYVl2X5T21TliE5f2U0WdEd6Xmo/view?usp=sharing
-
----
-
 ## ✨ Features
 
 ### 👨‍🎓 Ambassador
